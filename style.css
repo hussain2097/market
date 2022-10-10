@@ -28,7 +28,7 @@ input{
     color: #fff;
 }
 input:focus{
-    background: #fff;
+    background: #000;
     transform: scale(1.1);
 }
 .price input{
